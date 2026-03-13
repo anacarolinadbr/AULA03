@@ -1,1 +1,1 @@
-Essa é uma página que vai falar sobre mim
+Essa página fala sobre mim
